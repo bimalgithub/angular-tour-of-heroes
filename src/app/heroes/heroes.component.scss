@@ -1,5 +1,5 @@
 .heroes {
-  margin: 0 0 2em 0;
+  margin: 0 auto;
   list-style-type: none;
   padding: 0;
   width: 15em;
@@ -26,6 +26,7 @@
   position: relative;
   display: block;
   width: 250px;
+  text-align: left;
 }
 
 .heroes a:hover {
